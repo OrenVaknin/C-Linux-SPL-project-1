@@ -1,0 +1,45 @@
+order 0
+order 1
+order 0
+order 1
+step 1
+orderStatus 0
+orderStatus 1
+orderStatus 2
+volunteerStatus 0
+customerStatus 0
+customerStatus 1
+customerStatus 10
+restore
+backup
+step 1
+volunteerStatus 0
+volunteerStatus 1
+step 1
+volunteerStatus 0
+orderStatus 2
+orderStatus 0
+orderStatus 3
+log
+customer Dani soldier 7 3
+customerStatus 2
+order 2
+orderStatus 3
+step 1
+customerStatus 0
+customerStatus 1
+customerStatus 2
+volunteerStatus 1
+step 2
+volunteerStatus 1 
+orderStatus 2
+orderStatus 3
+step 1
+orderStatus 3
+log
+restore
+log
+customerStatus 2
+close
+
+

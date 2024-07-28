@@ -1,0 +1,23 @@
+order 0
+order 0 
+order 1
+order 0
+order 8
+backup
+step 1
+step 2
+
+customerStatus 0
+customerStatus 1
+backup
+customerStatus 4
+step 3
+customerStatus 1
+customerStatus 0
+log
+restore
+customerStatus 0
+volunteerStatus 1
+volunteerStatus 0
+log
+close
